@@ -966,4 +966,4 @@
   maintainer: NickChecan
   contact: https://github.com/The-Nefarious-Developer/devcontainer-templates/issues
   repository: https://github.com/The-Nefarious-Developer/devcontainer-templates
-  ociReference: ghcr.io/The-Nefarious-Developer/devcontainer-templates
+  ociReference: ghcr.io/the-nefarious-developer/devcontainer-templates
